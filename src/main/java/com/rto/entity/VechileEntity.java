@@ -51,5 +51,6 @@ public class VechileEntity {
 	@UpdateTimestamp
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date update_Date;
+	//change donew by wasim to test git commands
 	
 }
